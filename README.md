@@ -4,3 +4,4 @@ Repositório para aula de Git do Santander-corders
 
 * usando comando push
 * usando comando pull
+* usando comando fetch
